@@ -1,0 +1,19 @@
+   First Class
+      |Seat A|Seat B|
+Row 0 | Open | Open | 
+Row 1 | Open | Open | 
+Row 2 | Open | Open | 
+Row 3 | Open | Open | 
+
+   Coach
+      |Seat A|Seat B|Seat C|Seat B|
+Row 0 | Open | Open | Open | Open | 
+Row 1 | Open | Open | Open | Open | 
+Row 2 | Open | Open | Open | Open | 
+Row 3 | Open | Open | Open | Open | 
+Row 4 | Open | Open | Open | Open | 
+Row 5 | Open | Open | Open | Open | 
+Row 6 | Open | Open | Open | Open | 
+Row 7 | Open | Open | Open | Open | 
+Row 8 | Open | Open | Open | Open | 
+Row 9 | Open | Open | Open | Open | 
